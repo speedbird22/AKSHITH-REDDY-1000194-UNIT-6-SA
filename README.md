@@ -40,7 +40,8 @@
     <div class="container">
         <h1>📱 Social Media Detox Tracker App</h1>
         <p><strong>An innovative solution to help users regain control of their screen time and build healthier digital habits.</strong></p>
-    <h2>⚡ Problem Statement</h2>
+
+  <h2>⚡ Problem Statement</h2>
         <p>
             <strong>"In an era where social media addiction negatively impacts mental well-being, productivity, and sleep patterns, 
             users struggle to self-regulate their screen time. Existing solutions often focus on restrictive blocking rather than 
@@ -48,7 +49,8 @@
             that empowers users to manage their screen time through personalized insights, gamification, and community support, 
             ultimately fostering a healthier digital lifestyle?"</strong>
         </p>
-      <h2>🚀 Project Overview</h2>
+
+  <h2>🚀 Project Overview</h2>
         <p>Excessive social media usage negatively impacts mental well-being, productivity, and sleep patterns. Our app helps users:</p>
         <ul>
             <li>✅ Track screen time across platforms</li>
@@ -57,10 +59,13 @@
             <li>✅ Engage in guided relaxation & alternative offline activities</li>
             <li>✅ Connect with a supportive community for accountability</li>
         </ul>
-    <h2>🧠 Design Thinking Process</h2>
-     <h3>1️⃣ Empathize & Define: Understanding User Needs</h3>
+
+  <h2>🧠 Design Thinking Process</h2>
+
+ <h3>1️⃣ Empathize & Define: Understanding User Needs</h3>
         <p>🔍 Conducted surveys & interviews with 10+ participants. Identified key pain points:</p>
-             <table>
+        
+ <table>
             <tr>
                 <th>User</th>
                 <th>Age</th>
@@ -89,38 +94,58 @@
                 <td>Constant social media notifications affect productivity.</td>
                 <td>Wants an AI-based notification filter.</td>
             </tr>
+            <tr>
+                <td>Person 4</td>
+                <td>22</td>
+                <td>College Student</td>
+                <td>Feels FOMO when logging off.</td>
+                <td>Prefers an alternative activity suggestion feature.</td>
+            </tr>
+            <tr>
+                <td>Person 5</td>
+                <td>35</td>
+                <td>Freelancer</td>
+                <td>Hard to self-regulate time spent on social media.</td>
+                <td>Likes gamification & rewards.</td>
+            </tr>
+            <tr>
+                <td>Person 6</td>
+                <td>40</td>
+                <td>Doctor</td>
+                <td>Social media disrupts family time.</td>
+                <td>Prefers scheduled "offline zones."</td>
+            </tr>
+            <tr>
+                <td>Person 7</td>
+                <td>28</td>
+                <td>Teacher</td>
+                <td>Gets distracted grading papers due to notifications.</td>
+                <td>Wants an app that temporarily mutes distractions.</td>
+            </tr>
+            <tr>
+                <td>Person 8</td>
+                <td>50</td>
+                <td>Business Owner</td>
+                <td>Spends too much time on social media instead of work.</td>
+                <td>Wants an AI assistant to set time limits automatically.</td>
+            </tr>
+            <tr>
+                <td>Person 9</td>
+                <td>26</td>
+                <td>Graphic Designer</td>
+                <td>Finds it hard to focus due to algorithm-driven recommendations.</td>
+                <td>Needs app suggestions that reduce unnecessary scrolling.</td>
+            </tr>
+            <tr>
+                <td>Person 10</td>
+                <td>19</td>
+                <td>Gamer</td>
+                <td>Wastes hours on gaming forums & streams.</td>
+                <td>Would like challenges & rewards to limit usage.</td>
+            </tr>
         </table>
-     <h3>2️⃣ Empathy Mapping</h3>
-        <ul>
-            <li><strong>Think:</strong> "I should reduce my screen time, but it's so difficult."</li>
-            <li><strong>Feel:</strong> Guilty, frustrated, anxious about missing out.</li>
-            <li><strong>Say:</strong> "I need an app that motivates me, not just blocks access."</li>
-            <li><strong>Do:</strong> Scroll endlessly, ignore reminders, delay breaks.</li>
-        </ul>
-      <h3>3️⃣ Competitive Analysis</h3>
-        <table>
-            <tr>
-                <th>App</th>
-                <th>Pros</th>
-                <th>Cons</th>
-            </tr>
-            <tr>
-                <td>Forest</td>
-                <td>Uses gamification (growing a tree) to limit distractions.</td>
-                <td>No tracking of social media time.</td>
-            </tr>
-            <tr>
-                <td>Freedom</td>
-                <td>Blocks distracting websites & apps.</td>
-                <td>Feels restrictive rather than motivating.</td>
-            </tr>
-            <tr>
-                <td>Our App</td>
-                <td>Combines AI insights, challenges, community support, and habit-building.</td>
-                <td>More features need real-world testing.</td>
-            </tr>
-        </table>
-     <h2>🔗 How to Access the Prototype</h2>
+
+  <h2>🔗 How to Access the Prototype</h2>
         <p>Click <strong><a href="#">HERE</a></strong> to test the interactive Canva prototype.</p>
 
    <h2>🎯 Final Thoughts & Future Scope</h2>
