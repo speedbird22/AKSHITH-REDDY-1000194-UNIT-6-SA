@@ -141,9 +141,11 @@
             <li>✅ Introduce AI-powered habit suggestions based on user behavior.</li>
             <li>✅ Integrate with smart devices (Alexa, Google Assistant) for real-time reminders.</li>
             <li>✅ Partner with health organizations to encourage mindful social media use.</li>
-   <h1> MADE BY AKSHITH REDDY YERVA (WACP ID - 1000194) 
-      CRS : ARTIFICIAL INTELLIGENCE
-      COURSE: Design Thinking for Innovation
+   <h3> MADE BY AKSHITH REDDY YERVA (WACP ID - 1000194) 
+     
+   CRS : ARTIFICIAL INTELLIGENCE
+     
+   COURSE: Design Thinking for Innovation
       
    SCHOOL: BIRLA OPEN MINDS INTERNATIONAL SCHOOL, KOLLUR
         </ul>
