@@ -47,6 +47,46 @@
             <li>✅ Engage in guided relaxation & alternative offline activities</li>
             <li>✅ Connect with a supportive community for accountability</li>
         </ul>
+   <h2>📊 Competitive Analysis</h2>
+
+<table>
+    <tr>
+        <th>App</th>
+        <th>Pros</th>
+        <th>Cons</th>
+    </tr>
+    <tr>
+        <td><strong>Forest 🌳</strong></td>
+        <td>Uses gamification (growing a tree) to reduce screen time.</td>
+        <td>No detailed tracking of social media usage.</td>
+    </tr>
+    <tr>
+        <td><strong>Freedom 🚫</strong></td>
+        <td>Blocks distracting websites & apps.</td>
+        <td>Feels restrictive rather than encouraging habit-building.</td>
+    </tr>
+    <tr>
+        <td><strong>Offtime ⏳</strong></td>
+        <td>Allows app-specific blocking with scheduling.</td>
+        <td>No motivation or engagement features like rewards.</td>
+    </tr>
+    <tr>
+        <td><strong>Our App 🚀</strong></td>
+        <td>Combines AI insights, gamification, and community-driven engagement.</td>
+        <td>Requires real-world testing for best results.</td>
+    </tr>
+</table>
+
+<h3>💡 Why Our App Stands Out:</h3>
+<ul>
+    <li>✅ <strong>AI-Powered Smart Detox Assistant</strong> – Personalized interventions based on user habits.</li>
+    <li>✅ <strong>Gamified Challenges & Rewards</strong> – Keeps users motivated with streaks and achievements.</li>
+    <li>✅ <strong>Community Support</strong> – Users can share progress and tips with others.</li>
+    <li>✅ <strong>Adaptive Detox Plans</strong> – Instead of blocking, the app gradually helps users reduce screen time.</li>
+</ul>
+
+<p>This balances <strong>motivation & habit-building</strong>, making it more effective than restrictive apps! 🚀</p>
+
 
   <h2>🧠 Design Thinking Process</h2>
 
