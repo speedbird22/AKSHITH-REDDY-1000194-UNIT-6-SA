@@ -143,8 +143,9 @@
             <li>✅ Partner with health organizations to encourage mindful social media use.</li>
    <h1> MADE BY AKSHITH REDDY YERVA (WACP ID - 1000194) 
       CRS : ARTIFICIAL INTELLIGENCE
-      COURSE : Design Thinking for Innovation
-      SCHOOL: BIRLA OPEN MINDS INTERNATIONAL SCHOOL, KOLLUR
+      COURSE: Design Thinking for Innovation
+      
+   SCHOOL: BIRLA OPEN MINDS INTERNATIONAL SCHOOL, KOLLUR
         </ul>
     </div>
 </body>
