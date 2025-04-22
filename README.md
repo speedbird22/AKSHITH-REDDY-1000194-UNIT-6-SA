@@ -176,7 +176,7 @@
   <h2>🔗 How to Access the Prototype</h2>
         <p>Click <strong><a href="https://www.canva.com/design/DAGhzQkCj8g/5gSLvD3q5KEpcEF5APs5wA/view?utm_content=DAGhzQkCj8g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h44c7689b33">HERE</a></strong> to test the interactive Canva prototype.</p>
         <h2> wire-frame</h2>
- <p>Click <strong><a href="https://www.figma.com/design/CdQGwGvbBsyQHd1OyAubDE/Untitled?node-id=0-1&p=f&t=jjDb9kYdMWBj8mST-0">HERE</a></strong> to view the wireframe</p>
+ <p>Click <strong><a href="https://www.figma.com/proto/CdQGwGvbBsyQHd1OyAubDE/Untitled?node-id=6-88&t=jjDb9kYdMWBj8mST-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A88">HERE</a></strong> to view the wireframe</p>
 
    <h2>🎯 Final Thoughts & Future Scope</h2>
         <ul>
